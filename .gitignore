@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+*.hex
+*.elf
+*.bin
+*.eep
+*.tmp
+*.bak
+.vscode/
+.idea/
